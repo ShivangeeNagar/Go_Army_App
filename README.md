@@ -19,4 +19,5 @@ Develop, design and deploy a multi-party organization that can connect the troop
 ● Organizational users can review applications/requests and approve/reject the same - or if required route them to other organizations under a different enterprise.
 
 
-<img width="1233" alt="Screen Shot 2021-12-29 at 6 52 18 PM" src="https://user-images.githubusercontent.com/90488975/147711371-93b71d6b-b1bd-4895-a8d7-e25ecc7e81f9.png">
+<img width="1233" alt="Screen Shot 2021-12-29 at 6 52 18 PM" src="<img width="1440" alt="Screen Shot 2022-04-30 at 4 05 05 AM" src="https://user-images.githubusercontent.com/90488975/166097474-62cf48b8-2ef7-4f40-a411-25b9881ab336.png">
+">
